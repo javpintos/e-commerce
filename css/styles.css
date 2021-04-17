@@ -1,0 +1,16 @@
+body {
+    background-color: #cff1ef;
+}
+
+.card {
+    margin-right: 15px;
+    width: 18rem;
+}
+
+footer {
+    color: white;
+}
+
+footer:hover {
+    color: #ccc;
+}
